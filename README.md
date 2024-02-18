@@ -54,8 +54,8 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Herome12/Herome12/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
